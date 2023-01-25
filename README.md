@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harepus
 - 🎓 I'm a software engineering student at University of Oslo!
 - 👀 I’m interested in cyber security, and machine learning.
-- 🌱 I’m currently learning C, Scheme and Java.
+- 🌱 I’m currently learning JavaScript, TypeScript and Java.
 - 📫 How to reach me? Shoot me a message on Facebook.
 
 <!---
